@@ -1,6 +1,32 @@
-/*.visual{*/
-    /*text-align: center;*/
-/*}*/
-/*.utah{*/
-    /*text-align: center;*/
-/*}*/
+
+
+h1{
+
+    font-size: 3.4rem;
+
+}
+.row{
+    box-sizing: border-box;
+}
+
+.col{
+    padding: 1rem;
+}
+.row{
+    padding: 2rem 0;
+}
+.row button{
+    margin-right: 10px;
+
+}
+button.btn.rounded-circle.col-2{
+    height: 130px;
+    width: 130px;
+    border: solid white 10px;
+    border-radius: 50%;
+}
+div.row.justify-content-center{
+    padding:0;
+    margin:0;
+    height: 180px;
+}
