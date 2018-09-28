@@ -1,4 +1,6 @@
-
+hr{
+    height: 3px;
+}
 
 h1{
 
@@ -10,17 +12,17 @@ h1{
 }
 
 .col{
-    padding: 1rem;
+    padding: 1.5rem;
 }
 .row{
     padding: 2rem 0;
 }
 .row button{
-    margin-right: 10px;
+    margin-right: 20px;
 
 }
 button.btn.rounded-circle.col-2{
-    height: 130px;
+    height: 150px;
     width: 130px;
     border: solid white 10px;
     border-radius: 50%;
