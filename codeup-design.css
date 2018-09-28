@@ -24,12 +24,12 @@ h6{
 }
 .divBackg{
     position: absolute;
-    top: 110px;
+    top: 25px;
     width: 100%;
-    height: 100px;
+    height: 80px;
     background: white;
-
 }
+
 
 .col{
     padding: 1.5rem;
@@ -71,6 +71,9 @@ p.float-left , span.badge{
 p{
    font-family: 'ABEL REGULAR';
 }
+
+
+
 /*div.col-lg-6.float-left{*/
     /*height: 46px;*/
 /*}*/
